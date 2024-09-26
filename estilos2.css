@@ -1,0 +1,36 @@
+.encabezado {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 29px;
+}
+body {
+    background-color: #383737;
+    font-size: 16px;
+    background-image: url(level1.png);
+    background-repeat: repeat;
+    background-size: contain;
+}
+h1 {
+    font-size: 36px;
+    color: #c00707;
+}
+h2 {
+    font-size: 36px;
+    color: #d84004;
+}
+p {
+    font-size: 36px;
+    color: #e43601;
+}
+
+.header-img{
+ display: flex;
+ justify-content: center;   
+}
+header{
+    background-color: #383636;
+}
+footer{
+    background-color: black;
+}
